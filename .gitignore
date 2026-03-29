@@ -1,0 +1,36 @@
+node_modules/
+
+# Environment & secrets (never commit real tokens)
+.env
+.env.*
+!.env.example
+
+# Build & generated
+/dist
+/coverage
+/generated/prisma
+*.tsbuildinfo
+
+# Downloaded / local cache (USDA dumps, etc.)
+.cache/
+
+# Logs & local run output
+*.log
+bot-run*.txt
+launch.*.txt
+poll*.txt
+poll-step.*.txt
+
+# Local scratch / one-off dumps (not app source)
+tmp_plans.json
+meat_dump.json
+
+# Local Codex / agent helper scripts
+.codex-*.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE (user-specific)
+.idea/

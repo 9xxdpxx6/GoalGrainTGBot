@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: goalgrain-postgres
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: goalgrain
+      POSTGRES_USER: goalgrain
+      POSTGRES_PASSWORD: goalgrain
+    volumes:
+      - goalgrain_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  goalgrain_postgres_data:

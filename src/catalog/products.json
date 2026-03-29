@@ -1,0 +1,5051 @@
+[
+  {
+    "name": "Бедро индейки без кожи",
+    "usdaFdcId": 174518,
+    "usdaDescription": "Turkey, retail parts, thigh, meat only, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 116,
+    "proteinPer100g": 20.6,
+    "fatPer100g": 3.7,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Говядина вырезка",
+    "usdaFdcId": 2727573,
+    "usdaDescription": "Beef, tenderloin steak, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 149.1,
+    "proteinPer100g": 21.1,
+    "fatPer100g": 6.5,
+    "carbsPer100g": 0.2,
+    "category": "MEAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_beef"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 170,
+    "minServingG": 90,
+    "maxServingG": 230,
+    "isJunkFood": false
+  },
+  {
+    "name": "Говядина лопатка",
+    "usdaFdcId": 2646174,
+    "usdaDescription": "Beef, chuck, roast, boneless, choice, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 233.8,
+    "proteinPer100g": 18.4,
+    "fatPer100g": 17.8,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_beef"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Говядина тазобедренная часть",
+    "usdaFdcId": 746761,
+    "usdaDescription": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 123,
+    "proteinPer100g": 23.7,
+    "fatPer100g": 2.4,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_beef"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Говядина тонкий край",
+    "usdaFdcId": 2727574,
+    "usdaDescription": "Beef, top sirloin steak, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 140.3,
+    "proteinPer100g": 22,
+    "fatPer100g": 5.7,
+    "carbsPer100g": 0.2,
+    "category": "MEAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_beef"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Говяжья печень",
+    "usdaFdcId": 169451,
+    "usdaDescription": "Beef, variety meats and by-products, liver, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 135,
+    "proteinPer100g": 20.4,
+    "fatPer100g": 3.6,
+    "carbsPer100g": 3.9,
+    "category": "MEAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_beef"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Голень индейки без кожи",
+    "usdaFdcId": 171136,
+    "usdaDescription": "Turkey, drumstick, from whole bird, meat only, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 109,
+    "proteinPer100g": 23.7,
+    "fatPer100g": 1.5,
+    "carbsPer100g": 0.1,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Куриная печень",
+    "usdaFdcId": 171060,
+    "usdaDescription": "Chicken, liver, all classes, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 119,
+    "proteinPer100g": 16.9,
+    "fatPer100g": 4.8,
+    "carbsPer100g": 0.7,
+    "category": "MEAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Куриные сердечки",
+    "usdaFdcId": 171458,
+    "usdaDescription": "Chicken, heart, all classes, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 153,
+    "proteinPer100g": 15.6,
+    "fatPer100g": 9.3,
+    "carbsPer100g": 0.7,
+    "category": "MEAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Куриный фарш 5%",
+    "usdaFdcId": 2514746,
+    "usdaDescription": "Chicken, ground, with additives, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 136,
+    "proteinPer100g": 17.9,
+    "fatPer100g": 7.2,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Свинина вырезка",
+    "usdaFdcId": 2646169,
+    "usdaDescription": "Pork, loin, tenderloin, boneless, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 127.4,
+    "proteinPer100g": 21.6,
+    "fatPer100g": 3.9,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 240,
+    "isJunkFood": false
+  },
+  {
+    "name": "Свинина корейка",
+    "usdaFdcId": 2646168,
+    "usdaDescription": "Pork, loin, boneless, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 175.5,
+    "proteinPer100g": 21.1,
+    "fatPer100g": 9.5,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 240,
+    "isJunkFood": false
+  },
+  {
+    "name": "Свинина лопатка постная",
+    "usdaFdcId": 167810,
+    "usdaDescription": "Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 211,
+    "proteinPer100g": 18.2,
+    "fatPer100g": 14.8,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_pork"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Свинина окорок",
+    "usdaFdcId": 167814,
+    "usdaDescription": "Pork, fresh, leg (ham), rump half, separable lean and fat, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 182,
+    "proteinPer100g": 20.3,
+    "fatPer100g": 10.6,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_pork"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Телятина вырезка",
+    "usdaFdcId": 173823,
+    "usdaDescription": "Veal, loin, separable lean and fat, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 177,
+    "proteinPer100g": 20.1,
+    "fatPer100g": 10.1,
+    "carbsPer100g": 0.1,
+    "category": "MEAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Телятина окорок",
+    "usdaFdcId": 172643,
+    "usdaDescription": "Veal, leg, top round, cap off, cutlet, boneless, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 107,
+    "proteinPer100g": 22.1,
+    "fatPer100g": 2.1,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фарш говяжий 10%",
+    "usdaFdcId": 2514743,
+    "usdaDescription": "Beef, ground, 90% lean meat / 10% fat, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 193.2,
+    "proteinPer100g": 18.2,
+    "fatPer100g": 12.8,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat",
+      "contains_beef"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 100,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фарш из индейки 7%",
+    "usdaFdcId": 2514747,
+    "usdaDescription": "Turkey, ground, 93% lean/ 7% fat, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 155.5,
+    "proteinPer100g": 17.3,
+    "fatPer100g": 9.6,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Филе бедра куриного без кожи",
+    "usdaFdcId": 2646171,
+    "usdaDescription": "Chicken, thigh, boneless, skinless, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 150.9,
+    "proteinPer100g": 18.6,
+    "fatPer100g": 7.9,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Филе индейки",
+    "usdaFdcId": 171098,
+    "usdaDescription": "Turkey, whole, breast, meat only, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 114,
+    "proteinPer100g": 23.7,
+    "fatPer100g": 1.5,
+    "carbsPer100g": 0.1,
+    "category": "MEAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Филе куриное",
+    "usdaFdcId": 2646170,
+    "usdaDescription": "Chicken, breast, boneless, skinless, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 113.5,
+    "proteinPer100g": 22.5,
+    "fatPer100g": 1.9,
+    "carbsPer100g": 0,
+    "category": "MEAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_meat"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Горбуша",
+    "usdaFdcId": 175138,
+    "usdaDescription": "Fish, salmon, pink, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 127,
+    "proteinPer100g": 20.5,
+    "fatPer100g": 4.4,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лосось атлантический",
+    "usdaFdcId": 2684441,
+    "usdaDescription": "Fish, salmon, Atlantic, farm raised, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 204.8,
+    "proteinPer100g": 20.3,
+    "fatPer100g": 13.1,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 170,
+    "minServingG": 100,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Минтай",
+    "usdaFdcId": 333476,
+    "usdaDescription": "Fish, pollock, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 56,
+    "proteinPer100g": 12.3,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Пикша",
+    "usdaFdcId": 333374,
+    "usdaDescription": "Fish, haddock, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 74,
+    "proteinPer100g": 16.3,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Сайда",
+    "usdaFdcId": 173725,
+    "usdaDescription": "Fish, pollock, Alaska, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 76,
+    "proteinPer100g": 17.2,
+    "fatPer100g": 0.8,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Скумбрия",
+    "usdaFdcId": 175119,
+    "usdaDescription": "Fish, mackerel, Atlantic, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 205,
+    "proteinPer100g": 18.6,
+    "fatPer100g": 13.9,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 90,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Тилапия",
+    "usdaFdcId": 2684442,
+    "usdaDescription": "Fish, tilapia, farm raised, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 98.3,
+    "proteinPer100g": 19,
+    "fatPer100g": 2.5,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Треска",
+    "usdaFdcId": 2684444,
+    "usdaDescription": "Fish, cod, Atlantic, wild caught, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 74.8,
+    "proteinPer100g": 16.1,
+    "fatPer100g": 0.7,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 110,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Тунец консервированный в собственном соку",
+    "usdaFdcId": 334194,
+    "usdaDescription": "Fish, tuna, light, canned in water, drained solids",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 90,
+    "proteinPer100g": 19,
+    "fatPer100g": 0.9,
+    "carbsPer100g": 0.1,
+    "category": "FISH",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 140,
+    "minServingG": 80,
+    "maxServingG": 180,
+    "isJunkFood": false
+  },
+  {
+    "name": "Форель радужная",
+    "usdaFdcId": 173717,
+    "usdaDescription": "Fish, trout, rainbow, farmed, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 141,
+    "proteinPer100g": 19.9,
+    "fatPer100g": 6.2,
+    "carbsPer100g": 0,
+    "category": "FISH",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Хек",
+    "usdaFdcId": 175102,
+    "usdaDescription": "Beverages, shake, fast food, strawberry",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 113,
+    "proteinPer100g": 3.4,
+    "fatPer100g": 2.8,
+    "carbsPer100g": 18.9,
+    "category": "FISH",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кальмар",
+    "usdaFdcId": 174223,
+    "usdaDescription": "Mollusks, squid, mixed species, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 92,
+    "proteinPer100g": 15.6,
+    "fatPer100g": 1.4,
+    "carbsPer100g": 3.1,
+    "category": "SEAFOOD",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_shellfish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 240,
+    "isJunkFood": false
+  },
+  {
+    "name": "Креветки",
+    "usdaFdcId": 174210,
+    "usdaDescription": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 71,
+    "proteinPer100g": 13.6,
+    "fatPer100g": 1,
+    "carbsPer100g": 0.9,
+    "category": "SEAFOOD",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_shellfish"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 240,
+    "isJunkFood": false
+  },
+  {
+    "name": "Сушеная рыба",
+    "usdaFdcId": 174190,
+    "usdaDescription": "Fish, cod, Atlantic, dried and salted",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 290,
+    "proteinPer100g": 62.8,
+    "fatPer100g": 2.4,
+    "carbsPer100g": 0,
+    "category": "SEAFOOD",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_fish"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "salty"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 15,
+    "maxServingG": 60,
+    "isJunkFood": true
+  },
+  {
+    "name": "Сушеный кальмар",
+    "usdaFdcId": 2014146,
+    "usdaDescription": "DRIED SQUID",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 360,
+    "proteinPer100g": 72,
+    "fatPer100g": 6,
+    "carbsPer100g": 8,
+    "category": "SEAFOOD",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_shellfish"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "salty"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 15,
+    "maxServingG": 60,
+    "isJunkFood": true
+  },
+  {
+    "name": "Яичный белок",
+    "usdaFdcId": 172183,
+    "usdaDescription": "Egg, white, raw, fresh",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 52,
+    "proteinPer100g": 10.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 0.7,
+    "category": "EGG",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_eggs"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Яйцо куриное",
+    "usdaFdcId": 171287,
+    "usdaDescription": "Egg, whole, raw, fresh",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 143,
+    "proteinPer100g": 12.6,
+    "fatPer100g": 9.5,
+    "carbsPer100g": 0.7,
+    "category": "EGG",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_eggs"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 120,
+    "minServingG": 50,
+    "maxServingG": 200,
+    "isJunkFood": false
+  },
+  {
+    "name": "Яйцо перепелиное",
+    "usdaFdcId": 172191,
+    "usdaDescription": "Egg, quail, whole, fresh, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 158,
+    "proteinPer100g": 13,
+    "fatPer100g": 11.1,
+    "carbsPer100g": 0.4,
+    "category": "EGG",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_eggs"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 90,
+    "minServingG": 40,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Айран 1%",
+    "usdaFdcId": 170904,
+    "usdaDescription": "Kefir, lowfat, plain, LIFEWAY",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 43,
+    "proteinPer100g": 3.8,
+    "fatPer100g": 1,
+    "carbsPer100g": 4.8,
+    "category": "DAIRY",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 500,
+    "isJunkFood": false
+  },
+  {
+    "name": "Греческий йогурт 2%",
+    "usdaFdcId": 170903,
+    "usdaDescription": "Yogurt, Greek, plain, lowfat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 73,
+    "proteinPer100g": 9.9,
+    "fatPer100g": 1.9,
+    "carbsPer100g": 3.9,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 200,
+    "minServingG": 120,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Греческий йогурт обезжиренный",
+    "usdaFdcId": 330137,
+    "usdaDescription": "Yogurt, Greek, plain, nonfat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 61,
+    "proteinPer100g": 10.3,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 3.6,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 200,
+    "minServingG": 120,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Йогурт натуральный 2.5%",
+    "usdaFdcId": 2259793,
+    "usdaDescription": "Yogurt, plain, whole milk",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 77.9,
+    "proteinPer100g": 3.8,
+    "fatPer100g": 4.5,
+    "carbsPer100g": 5.6,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 500,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кефир 1%",
+    "usdaFdcId": 170904,
+    "usdaDescription": "Kefir, lowfat, plain, LIFEWAY",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 43,
+    "proteinPer100g": 3.8,
+    "fatPer100g": 1,
+    "carbsPer100g": 4.8,
+    "category": "DAIRY",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 200,
+    "maxServingG": 400,
+    "isJunkFood": false
+  },
+  {
+    "name": "Молоко 2%",
+    "usdaFdcId": 746778,
+    "usdaDescription": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 50,
+    "proteinPer100g": 3.4,
+    "fatPer100g": 1.9,
+    "carbsPer100g": 4.9,
+    "category": "DAIRY",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 400,
+    "isJunkFood": false
+  },
+  {
+    "name": "Моцарелла light",
+    "usdaFdcId": 329370,
+    "usdaDescription": "Cheese, mozzarella, low moisture, part-skim",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 298,
+    "proteinPer100g": 23.7,
+    "fatPer100g": 20.4,
+    "carbsPer100g": 4.4,
+    "category": "DAIRY",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 80,
+    "minServingG": 40,
+    "maxServingG": 120,
+    "isJunkFood": false
+  },
+  {
+    "name": "Ряженка 2.5%",
+    "usdaFdcId": 170874,
+    "usdaDescription": "Milk, buttermilk, fluid, cultured, lowfat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 40,
+    "proteinPer100g": 3.3,
+    "fatPer100g": 1.1,
+    "carbsPer100g": 4.8,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 500,
+    "isJunkFood": false
+  },
+  {
+    "name": "Сыр зерненый 5%",
+    "usdaFdcId": 328841,
+    "usdaDescription": "Cheese, cottage, lowfat, 2% milkfat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 84,
+    "proteinPer100g": 11,
+    "fatPer100g": 2.3,
+    "carbsPer100g": 4.3,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 220,
+    "minServingG": 120,
+    "maxServingG": 350,
+    "isJunkFood": false
+  },
+  {
+    "name": "Творог 2%",
+    "usdaFdcId": 328841,
+    "usdaDescription": "Cheese, cottage, lowfat, 2% milkfat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 84,
+    "proteinPer100g": 11,
+    "fatPer100g": 2.3,
+    "carbsPer100g": 4.3,
+    "category": "DAIRY",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 220,
+    "minServingG": 120,
+    "maxServingG": 350,
+    "isJunkFood": false
+  },
+  {
+    "name": "Творог 5%",
+    "usdaFdcId": 172179,
+    "usdaDescription": "Cheese, cottage, creamed, large or small curd",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 98,
+    "proteinPer100g": 11.1,
+    "fatPer100g": 4.3,
+    "carbsPer100g": 3.4,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 200,
+    "minServingG": 120,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Творог 9%",
+    "usdaFdcId": 328841,
+    "usdaDescription": "Cheese, cottage, lowfat, 2% milkfat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 84,
+    "proteinPer100g": 11,
+    "fatPer100g": 2.3,
+    "carbsPer100g": 4.3,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 220,
+    "minServingG": 120,
+    "maxServingG": 350,
+    "isJunkFood": false
+  },
+  {
+    "name": "Творог обезжиренный",
+    "usdaFdcId": 172181,
+    "usdaDescription": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 72,
+    "proteinPer100g": 10.3,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 6.7,
+    "category": "DAIRY",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "protein",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 200,
+    "minServingG": 120,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Горох вареный",
+    "usdaFdcId": 172429,
+    "usdaDescription": "Peas, split, mature seeds, cooked, boiled, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 118,
+    "proteinPer100g": 8.3,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 21.1,
+    "category": "LEGUME",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Маш вареный",
+    "usdaFdcId": 168499,
+    "usdaDescription": "Mung beans, mature seeds, sprouted, cooked, boiled, drained, with salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 19,
+    "proteinPer100g": 2,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 3.6,
+    "category": "LEGUME",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Нут",
+    "usdaFdcId": 2644288,
+    "usdaDescription": "Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 132.9,
+    "proteinPer100g": 7,
+    "fatPer100g": 3.1,
+    "carbsPer100g": 20.3,
+    "category": "LEGUME",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 100,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Темпе",
+    "usdaFdcId": 174272,
+    "usdaDescription": "Tempeh",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 192,
+    "proteinPer100g": 20.3,
+    "fatPer100g": 10.8,
+    "carbsPer100g": 7.6,
+    "category": "LEGUME",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_soy"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Тофу твердый",
+    "usdaFdcId": 172448,
+    "usdaDescription": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 78,
+    "proteinPer100g": 9,
+    "fatPer100g": 4.2,
+    "carbsPer100g": 2.9,
+    "category": "LEGUME",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_soy"
+    ],
+    "usageTags": [
+      "protein",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фасоль белая",
+    "usdaFdcId": 173750,
+    "usdaDescription": "Beans, small white, mature seeds, cooked, boiled, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 142,
+    "proteinPer100g": 9,
+    "fatPer100g": 0.6,
+    "carbsPer100g": 25.8,
+    "category": "LEGUME",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фасоль красная",
+    "usdaFdcId": 2644289,
+    "usdaDescription": "Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 123.1,
+    "proteinPer100g": 7.8,
+    "fatPer100g": 1.3,
+    "carbsPer100g": 21,
+    "category": "LEGUME",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фасоль черная",
+    "usdaFdcId": 173735,
+    "usdaDescription": "Beans, black, mature seeds, cooked, boiled, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 132,
+    "proteinPer100g": 8.9,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 23.7,
+    "category": "LEGUME",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Чечевица вареная",
+    "usdaFdcId": 172421,
+    "usdaDescription": "Lentils, mature seeds, cooked, boiled, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 116,
+    "proteinPer100g": 9,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 20.1,
+    "category": "LEGUME",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 260,
+    "isJunkFood": false
+  },
+  {
+    "name": "Эдамаме",
+    "usdaFdcId": 168410,
+    "usdaDescription": "Edamame, frozen, unprepared",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 109,
+    "proteinPer100g": 11.2,
+    "fatPer100g": 4.7,
+    "carbsPer100g": 7.6,
+    "category": "LEGUME",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_soy"
+    ],
+    "usageTags": [
+      "protein",
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 280,
+    "isJunkFood": false
+  },
+  {
+    "name": "Булгур",
+    "usdaFdcId": 2710820,
+    "usdaDescription": "Bulgur, dry, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 349.5,
+    "proteinPer100g": 11.8,
+    "fatPer100g": 2.4,
+    "carbsPer100g": 75.9,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Гранола",
+    "usdaFdcId": 171646,
+    "usdaDescription": "Cereals ready-to-eat, granola, homemade",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 489,
+    "proteinPer100g": 13.7,
+    "fatPer100g": 24.3,
+    "carbsPer100g": 53.9,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 30,
+    "maxServingG": 120,
+    "isJunkFood": false
+  },
+  {
+    "name": "Гречка",
+    "usdaFdcId": 167967,
+    "usdaDescription": "Snacks, rice cakes, brown rice, buckwheat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 380,
+    "proteinPer100g": 9,
+    "fatPer100g": 3.5,
+    "carbsPer100g": 80.1,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner",
+      "breakfast"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Киноа",
+    "usdaFdcId": 168874,
+    "usdaDescription": "Quinoa, uncooked",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 368,
+    "proteinPer100g": 14.1,
+    "fatPer100g": 6.1,
+    "carbsPer100g": 64.2,
+    "category": "GRAIN",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 65,
+    "minServingG": 40,
+    "maxServingG": 90,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кукурузная крупа",
+    "usdaFdcId": 167628,
+    "usdaDescription": "Cornmeal, blue (Navajo)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 398,
+    "proteinPer100g": 10.4,
+    "fatPer100g": 5.4,
+    "carbsPer100g": 76.9,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кукурузные хлопья",
+    "usdaFdcId": 174648,
+    "usdaDescription": "Cereals ready-to-eat, RALSTON Corn Flakes",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 384,
+    "proteinPer100g": 5.9,
+    "fatPer100g": 0.9,
+    "carbsPer100g": 88,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 30,
+    "maxServingG": 120,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кускус",
+    "usdaFdcId": 169699,
+    "usdaDescription": "Couscous, dry",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 376,
+    "proteinPer100g": 12.8,
+    "fatPer100g": 0.6,
+    "carbsPer100g": 77.4,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лапша рисовая",
+    "usdaFdcId": 169742,
+    "usdaDescription": "Rice noodles, dry",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 364,
+    "proteinPer100g": 6,
+    "fatPer100g": 0.6,
+    "carbsPer100g": 80.2,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Макароны цельнозерновые",
+    "usdaFdcId": 169738,
+    "usdaDescription": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 352,
+    "proteinPer100g": 13.9,
+    "fatPer100g": 2.9,
+    "carbsPer100g": 73.4,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Манная крупа",
+    "usdaFdcId": 168915,
+    "usdaDescription": "Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 362,
+    "proteinPer100g": 13.5,
+    "fatPer100g": 2.7,
+    "carbsPer100g": 73.1,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Овсяные отруби",
+    "usdaFdcId": 168872,
+    "usdaDescription": "Oat bran, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 246,
+    "proteinPer100g": 17.3,
+    "fatPer100g": 7,
+    "carbsPer100g": 66.2,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 30,
+    "maxServingG": 120,
+    "isJunkFood": false
+  },
+  {
+    "name": "Овсяные хлопья",
+    "usdaFdcId": 2346396,
+    "usdaDescription": "Oats, whole grain, rolled, old fashioned",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 379.1,
+    "proteinPer100g": 13.5,
+    "fatPer100g": 5.9,
+    "carbsPer100g": 68.7,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 30,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Перловка",
+    "usdaFdcId": 170284,
+    "usdaDescription": "Barley, pearled, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 352,
+    "proteinPer100g": 9.9,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 77.7,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Пшено",
+    "usdaFdcId": 2512379,
+    "usdaDescription": "Millet, whole grain",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 375.3,
+    "proteinPer100g": 10,
+    "fatPer100g": 4.2,
+    "carbsPer100g": 74.4,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Рис белый",
+    "usdaFdcId": 168877,
+    "usdaDescription": "Rice, white, long-grain, regular, raw, enriched",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 365,
+    "proteinPer100g": 7.1,
+    "fatPer100g": 0.7,
+    "carbsPer100g": 80,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Рис бурый",
+    "usdaFdcId": 2512380,
+    "usdaDescription": "Rice, brown, long grain, unenriched, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 368.4,
+    "proteinPer100g": 7.3,
+    "fatPer100g": 3.3,
+    "carbsPer100g": 76.7,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Рис круглозерный",
+    "usdaFdcId": 168881,
+    "usdaDescription": "Rice, white, short-grain, enriched, uncooked",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 358,
+    "proteinPer100g": 6.5,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 79.2,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Соба",
+    "usdaFdcId": 168906,
+    "usdaDescription": "Noodles, japanese, soba, dry",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 336,
+    "proteinPer100g": 14.4,
+    "fatPer100g": 0.7,
+    "carbsPer100g": 74.6,
+    "category": "GRAIN",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фарро",
+    "usdaFdcId": 2710828,
+    "usdaDescription": "Farro, pearled, dry, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 343.7,
+    "proteinPer100g": 12.6,
+    "fatPer100g": 3.1,
+    "carbsPer100g": 72.1,
+    "category": "GRAIN",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Ячневая крупа",
+    "usdaFdcId": 170284,
+    "usdaDescription": "Barley, pearled, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 352,
+    "proteinPer100g": 9.9,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 77.7,
+    "category": "GRAIN",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лаваш тонкий",
+    "usdaFdcId": 172816,
+    "usdaDescription": "Bread, pita, white, unenriched",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 275,
+    "proteinPer100g": 9.1,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 55.7,
+    "category": "BREAD",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 35,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Пита пшеничная",
+    "usdaFdcId": 174916,
+    "usdaDescription": "Bread, pita, whole-wheat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 262,
+    "proteinPer100g": 9.8,
+    "fatPer100g": 1.7,
+    "carbsPer100g": 55.9,
+    "category": "BREAD",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 20,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Тортилья пшеничная",
+    "usdaFdcId": 167535,
+    "usdaDescription": "Tortillas, ready-to-bake or -fry, flour, shelf stable",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 297,
+    "proteinPer100g": 8,
+    "fatPer100g": 7.6,
+    "carbsPer100g": 49.3,
+    "category": "BREAD",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 40,
+    "maxServingG": 100,
+    "isJunkFood": false
+  },
+  {
+    "name": "Хлеб бородинский",
+    "usdaFdcId": 172684,
+    "usdaDescription": "Bread, rye",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 259,
+    "proteinPer100g": 8.5,
+    "fatPer100g": 3.3,
+    "carbsPer100g": 48.3,
+    "category": "BREAD",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 20,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Хлеб ржаной",
+    "usdaFdcId": 172684,
+    "usdaDescription": "Bread, rye",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 259,
+    "proteinPer100g": 8.5,
+    "fatPer100g": 3.3,
+    "carbsPer100g": 48.3,
+    "category": "BREAD",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 120,
+    "isJunkFood": false
+  },
+  {
+    "name": "Хлеб цельнозерновой",
+    "usdaFdcId": 335240,
+    "usdaDescription": "Bread, whole-wheat, commercially prepared",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 254,
+    "proteinPer100g": 12.3,
+    "fatPer100g": 3.5,
+    "carbsPer100g": 43.1,
+    "category": "BREAD",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 70,
+    "minServingG": 40,
+    "maxServingG": 120,
+    "isJunkFood": false
+  },
+  {
+    "name": "Хлебцы гречневые",
+    "usdaFdcId": 2512374,
+    "usdaDescription": "Flour, buckwheat",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 357.8,
+    "proteinPer100g": 8.9,
+    "fatPer100g": 2.5,
+    "carbsPer100g": 75,
+    "category": "BREAD",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 60,
+    "minServingG": 20,
+    "maxServingG": 140,
+    "isJunkFood": false
+  },
+  {
+    "name": "Авокадо",
+    "usdaFdcId": 171705,
+    "usdaDescription": "Avocados, raw, all commercial varieties",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 160,
+    "proteinPer100g": 2,
+    "fatPer100g": 14.7,
+    "carbsPer100g": 8.5,
+    "category": "FAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 80,
+    "minServingG": 40,
+    "maxServingG": 150,
+    "isJunkFood": false
+  },
+  {
+    "name": "Арахисовая паста",
+    "usdaFdcId": 2262072,
+    "usdaDescription": "Peanut butter, creamy",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 589.1,
+    "proteinPer100g": 24,
+    "fatPer100g": 49.4,
+    "carbsPer100g": 22.7,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Маслины",
+    "usdaFdcId": 169094,
+    "usdaDescription": "Olives, ripe, canned (small-extra large)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 116,
+    "proteinPer100g": 0.8,
+    "fatPer100g": 10.9,
+    "carbsPer100g": 6,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 10,
+    "maxServingG": 80,
+    "isJunkFood": false
+  },
+  {
+    "name": "Масло кукурузное",
+    "usdaFdcId": 748323,
+    "usdaDescription": "Oil, corn",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 884,
+    "proteinPer100g": 0,
+    "fatPer100g": 100,
+    "carbsPer100g": 0,
+    "category": "FAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 10,
+    "minServingG": 5,
+    "maxServingG": 25,
+    "isJunkFood": false
+  },
+  {
+    "name": "Масло кунжутное",
+    "usdaFdcId": 171016,
+    "usdaDescription": "Oil, sesame, salad or cooking",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 884,
+    "proteinPer100g": 0,
+    "fatPer100g": 100,
+    "carbsPer100g": 0,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 10,
+    "minServingG": 5,
+    "maxServingG": 25,
+    "isJunkFood": false
+  },
+  {
+    "name": "Масло льняное",
+    "usdaFdcId": 167702,
+    "usdaDescription": "Oil, flaxseed, cold pressed",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 884,
+    "proteinPer100g": 0.1,
+    "fatPer100g": 100,
+    "carbsPer100g": 0,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 10,
+    "minServingG": 5,
+    "maxServingG": 25,
+    "isJunkFood": false
+  },
+  {
+    "name": "Оливки",
+    "usdaFdcId": 169094,
+    "usdaDescription": "Olives, ripe, canned (small-extra large)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 116,
+    "proteinPer100g": 0.8,
+    "fatPer100g": 10.9,
+    "carbsPer100g": 6,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 10,
+    "maxServingG": 80,
+    "isJunkFood": false
+  },
+  {
+    "name": "Оливковое масло",
+    "usdaFdcId": 171413,
+    "usdaDescription": "Oil, olive, salad or cooking",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 884,
+    "proteinPer100g": 0,
+    "fatPer100g": 100,
+    "carbsPer100g": 0,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 10,
+    "minServingG": 5,
+    "maxServingG": 20,
+    "isJunkFood": false
+  },
+  {
+    "name": "Паста кешью",
+    "usdaFdcId": 168597,
+    "usdaDescription": "Nuts, cashew butter, plain, with salt added",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 609,
+    "proteinPer100g": 12.1,
+    "fatPer100g": 53,
+    "carbsPer100g": 30.3,
+    "category": "FAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 40,
+    "isJunkFood": false
+  },
+  {
+    "name": "Паста миндальная",
+    "usdaFdcId": 2262074,
+    "usdaDescription": "Almond butter, creamy",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 645,
+    "proteinPer100g": 20.8,
+    "fatPer100g": 53,
+    "carbsPer100g": 21.2,
+    "category": "FAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 40,
+    "isJunkFood": false
+  },
+  {
+    "name": "Подсолнечное масло",
+    "usdaFdcId": 171017,
+    "usdaDescription": "Oil, sunflower, linoleic (less than 60%)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 884,
+    "proteinPer100g": 0,
+    "fatPer100g": 100,
+    "carbsPer100g": 0,
+    "category": "FAT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 10,
+    "minServingG": 5,
+    "maxServingG": 20,
+    "isJunkFood": false
+  },
+  {
+    "name": "Сливочное масло",
+    "usdaFdcId": 170155,
+    "usdaDescription": "Seeds, sunflower seed butter, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 617,
+    "proteinPer100g": 17.3,
+    "fatPer100g": 55.2,
+    "carbsPer100g": 23.3,
+    "category": "FAT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast"
+    ],
+    "defaultServingG": 10,
+    "minServingG": 5,
+    "maxServingG": 20,
+    "isJunkFood": false
+  },
+  {
+    "name": "Тахини",
+    "usdaFdcId": 168604,
+    "usdaDescription": "Seeds, sesame butter, tahini, type of kernels unspecified",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 592,
+    "proteinPer100g": 17.4,
+    "fatPer100g": 53,
+    "carbsPer100g": 21.5,
+    "category": "FAT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 40,
+    "isJunkFood": false
+  },
+  {
+    "name": "Арахис",
+    "usdaFdcId": 173806,
+    "usdaDescription": "Peanuts, all types, dry-roasted, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 587,
+    "proteinPer100g": 24.4,
+    "fatPer100g": 49.7,
+    "carbsPer100g": 21.3,
+    "category": "NUT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 40,
+    "isJunkFood": false
+  },
+  {
+    "name": "Бразильский орех",
+    "usdaFdcId": 2515373,
+    "usdaDescription": "Nuts, brazilnuts, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 663,
+    "proteinPer100g": 15,
+    "fatPer100g": 57.4,
+    "carbsPer100g": 21.6,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Грецкий орех",
+    "usdaFdcId": 2346394,
+    "usdaDescription": "Nuts, walnuts, English, halves, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 678.4,
+    "proteinPer100g": 14.6,
+    "fatPer100g": 69.7,
+    "carbsPer100g": 10.9,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кедровые орехи",
+    "usdaFdcId": 2346392,
+    "usdaDescription": "Nuts, pine nuts, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 688.9,
+    "proteinPer100g": 15.7,
+    "fatPer100g": 61.3,
+    "carbsPer100g": 18.6,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кешью",
+    "usdaFdcId": 2515374,
+    "usdaDescription": "Nuts, cashew nuts, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 533.7,
+    "proteinPer100g": 17.4,
+    "fatPer100g": 38.9,
+    "carbsPer100g": 36.3,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кокосовая стружка",
+    "usdaFdcId": 168585,
+    "usdaDescription": "Nuts, coconut meat, dried (desiccated), creamed",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 684,
+    "proteinPer100g": 5.3,
+    "fatPer100g": 69.1,
+    "carbsPer100g": 21.5,
+    "category": "NUT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кунжут",
+    "usdaFdcId": 169412,
+    "usdaDescription": "Seeds, sesame seed kernels, dried (decorticated)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 631,
+    "proteinPer100g": 20.4,
+    "fatPer100g": 61.2,
+    "carbsPer100g": 11.7,
+    "category": "NUT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Льняное семя",
+    "usdaFdcId": 2262075,
+    "usdaDescription": "Flaxseed, ground",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 545.3,
+    "proteinPer100g": 18,
+    "fatPer100g": 37.3,
+    "carbsPer100g": 34.4,
+    "category": "NUT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Миндаль",
+    "usdaFdcId": 2346393,
+    "usdaDescription": "Nuts, almonds, whole, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 583.7,
+    "proteinPer100g": 21.5,
+    "fatPer100g": 51.1,
+    "carbsPer100g": 20,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Пекан",
+    "usdaFdcId": 2346395,
+    "usdaDescription": "Nuts, pecans, halves, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 750.3,
+    "proteinPer100g": 10,
+    "fatPer100g": 73.3,
+    "carbsPer100g": 12.7,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Семена чиа",
+    "usdaFdcId": 2710819,
+    "usdaDescription": "Chia seeds, dry, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 517.3,
+    "proteinPer100g": 17,
+    "fatPer100g": 32.9,
+    "carbsPer100g": 38.3,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 25,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Семечки подсолнечные",
+    "usdaFdcId": 325524,
+    "usdaDescription": "Seeds, sunflower seed kernels, dry roasted, with salt added",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 612,
+    "proteinPer100g": 21,
+    "fatPer100g": 56.1,
+    "carbsPer100g": 17.1,
+    "category": "NUT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_seeds"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Семечки тыквенные",
+    "usdaFdcId": 170557,
+    "usdaDescription": "Seeds, pumpkin and squash seed kernels, roasted, without salt",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 574,
+    "proteinPer100g": 29.8,
+    "fatPer100g": 49,
+    "carbsPer100g": 14.7,
+    "category": "NUT",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_seeds"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Соленый арахис",
+    "usdaFdcId": 168599,
+    "usdaDescription": "Nuts, mixed nuts, dry roasted, with peanuts, with salt added",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 594,
+    "proteinPer100g": 17.3,
+    "fatPer100g": 51.4,
+    "carbsPer100g": 25.4,
+    "category": "NUT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 10,
+    "maxServingG": 60,
+    "isJunkFood": true
+  },
+  {
+    "name": "Фундук",
+    "usdaFdcId": 2515375,
+    "usdaDescription": "Nuts, hazelnuts or filberts, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 602.5,
+    "proteinPer100g": 13.5,
+    "fatPer100g": 53.5,
+    "carbsPer100g": 26.5,
+    "category": "NUT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [
+      "contains_nuts"
+    ],
+    "usageTags": [
+      "fat",
+      "snack"
+    ],
+    "defaultServingG": 20,
+    "minServingG": 10,
+    "maxServingG": 35,
+    "isJunkFood": false
+  },
+  {
+    "name": "Баклажан",
+    "usdaFdcId": 2685577,
+    "usdaDescription": "Eggplant, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 22.4,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 5.4,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Батат",
+    "usdaFdcId": 168482,
+    "usdaDescription": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 86,
+    "proteinPer100g": 1.6,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 20.1,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 220,
+    "minServingG": 120,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Брокколи",
+    "usdaFdcId": 747447,
+    "usdaDescription": "Broccoli, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 31,
+    "proteinPer100g": 2.6,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 6.3,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Брюссельская капуста",
+    "usdaFdcId": 2685575,
+    "usdaDescription": "Brussels sprouts, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 59.5,
+    "proteinPer100g": 4,
+    "fatPer100g": 0.6,
+    "carbsPer100g": 9.6,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Вешенки",
+    "usdaFdcId": 168580,
+    "usdaDescription": "Mushrooms, oyster, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 33,
+    "proteinPer100g": 3.3,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 6.1,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Зеленый горошек",
+    "usdaFdcId": 170419,
+    "usdaDescription": "Peas, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 81,
+    "proteinPer100g": 5.4,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 14.4,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Зеленый лук",
+    "usdaFdcId": 170005,
+    "usdaDescription": "Onions, spring or scallions (includes tops and bulb), raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 32,
+    "proteinPer100g": 1.8,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 7.3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кабачок",
+    "usdaFdcId": 2685568,
+    "usdaDescription": "Squash, summer, green, zucchini, includes skin, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 15.8,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 180,
+    "minServingG": 100,
+    "maxServingG": 300,
+    "isJunkFood": false
+  },
+  {
+    "name": "Капуста белокочанная",
+    "usdaFdcId": 2346407,
+    "usdaDescription": "Cabbage, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 27.9,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 6.4,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Капуста савойская",
+    "usdaFdcId": 170388,
+    "usdaDescription": "Cabbage, savoy, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 27,
+    "proteinPer100g": 2,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 6.1,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Картофель",
+    "usdaFdcId": 2346401,
+    "usdaDescription": "Potatoes, russet, without skin, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 81.1,
+    "proteinPer100g": 2.3,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 17.8,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 350,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кинза",
+    "usdaFdcId": 169997,
+    "usdaDescription": "Coriander (cilantro) leaves, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 23,
+    "proteinPer100g": 2.1,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 3.7,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 5,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Корень сельдерея",
+    "usdaFdcId": 170400,
+    "usdaDescription": "Celeriac, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 42,
+    "proteinPer100g": 1.5,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 9.2,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Краснокочанная капуста",
+    "usdaFdcId": 2346408,
+    "usdaDescription": "Cabbage, red, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 34,
+    "proteinPer100g": 1.2,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 6.8,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Кукуруза сладкая",
+    "usdaFdcId": 2710826,
+    "usdaDescription": "Corn, sweet, yellow and white kernels,  fresh, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 84.6,
+    "proteinPer100g": 2.8,
+    "fatPer100g": 1.6,
+    "carbsPer100g": 14.7,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Листовой салат",
+    "usdaFdcId": 2346391,
+    "usdaDescription": "Lettuce, leaf, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 22,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 4.1,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лук красный",
+    "usdaFdcId": 790577,
+    "usdaDescription": "Onions, red, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 44,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 9.9,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лук репчатый",
+    "usdaFdcId": 790646,
+    "usdaDescription": "Onions, yellow, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 38,
+    "proteinPer100g": 0.8,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 8.6,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 80,
+    "minServingG": 40,
+    "maxServingG": 150,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лук-порей",
+    "usdaFdcId": 2727584,
+    "usdaDescription": "Leeks, bulb and greens, root removed, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 5.9,
+    "proteinPer100g": 1.5,
+    "fatPer100g": 0,
+    "carbsPer100g": 0,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Морковь",
+    "usdaFdcId": 2258586,
+    "usdaDescription": "Carrots, mature, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 45.1,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 10.3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "defaultServingG": 120,
+    "minServingG": 60,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Огурцы",
+    "usdaFdcId": 2346406,
+    "usdaDescription": "Cucumber, with peel, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 13.9,
+    "proteinPer100g": 0.6,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Пекинская капуста",
+    "usdaFdcId": 2727583,
+    "usdaDescription": "Cabbage, napa, leaf, destemmed, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 4.2,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0,
+    "carbsPer100g": 0,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Перец болгарский",
+    "usdaFdcId": 170427,
+    "usdaDescription": "Peppers, sweet, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 20,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 4.6,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 140,
+    "minServingG": 70,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Петрушка",
+    "usdaFdcId": 170416,
+    "usdaDescription": "Parsley, fresh",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 36,
+    "proteinPer100g": 3,
+    "fatPer100g": 0.8,
+    "carbsPer100g": 6.3,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 5,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Редис",
+    "usdaFdcId": 2747665,
+    "usdaDescription": "Radishes, red, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 19.6,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 4.1,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Редька зеленая",
+    "usdaFdcId": 2747665,
+    "usdaDescription": "Radishes, red, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 19.6,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 4.1,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Репа",
+    "usdaFdcId": 2747674,
+    "usdaDescription": "Turnips, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 34,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 7.3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Ромэн",
+    "usdaFdcId": 746769,
+    "usdaDescription": "Lettuce, cos or romaine, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 17,
+    "proteinPer100g": 1.2,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 3.2,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Руккола",
+    "usdaFdcId": 2710822,
+    "usdaDescription": "Arugula, baby, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 31,
+    "proteinPer100g": 1.7,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 5.4,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Салат айсберг",
+    "usdaFdcId": 2346388,
+    "usdaDescription": "Lettuce, iceberg, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 14.5,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 3.4,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 80,
+    "minServingG": 40,
+    "maxServingG": 150,
+    "isJunkFood": false
+  },
+  {
+    "name": "Салат корн",
+    "usdaFdcId": 169219,
+    "usdaDescription": "Cornsalad, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 21,
+    "proteinPer100g": 2,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 3.6,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Свекла",
+    "usdaFdcId": 2685576,
+    "usdaDescription": "Beets, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 41,
+    "proteinPer100g": 1.7,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 8.8,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Сельдерей стеблевой",
+    "usdaFdcId": 2346405,
+    "usdaDescription": "Celery, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 16.7,
+    "proteinPer100g": 0.5,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Спаржа",
+    "usdaFdcId": 2710823,
+    "usdaDescription": "Asparagus, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 28.1,
+    "proteinPer100g": 1.4,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 5.1,
+    "category": "VEGETABLE",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Томаты",
+    "usdaFdcId": 170457,
+    "usdaDescription": "Tomatoes, red, ripe, raw, year round average",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 18,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.9,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Тыква",
+    "usdaFdcId": 2727578,
+    "usdaDescription": "Squash, pie pumpkin, peeled, seeded, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 3.4,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0,
+    "carbsPer100g": 0,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Укроп",
+    "usdaFdcId": 172233,
+    "usdaDescription": "Dill weed, fresh",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 43,
+    "proteinPer100g": 3.5,
+    "fatPer100g": 1.1,
+    "carbsPer100g": 7,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 5,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Фасоль стручковая",
+    "usdaFdcId": 2346400,
+    "usdaDescription": "Beans, snap, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 40,
+    "proteinPer100g": 2,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 7.4,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Цветная капуста",
+    "usdaFdcId": 2685573,
+    "usdaDescription": "Cauliflower, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 22.8,
+    "proteinPer100g": 1.6,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 4.7,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Цукини",
+    "usdaFdcId": 2685568,
+    "usdaDescription": "Squash, summer, green, zucchini, includes skin, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 18.9,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 3.3,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 60,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Чеснок",
+    "usdaFdcId": 1104647,
+    "usdaDescription": "Garlic, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 143,
+    "proteinPer100g": 6.6,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 28.2,
+    "category": "VEGETABLE",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 5,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Шампиньоны",
+    "usdaFdcId": 168434,
+    "usdaDescription": "Mushrooms, brown, italian, or crimini, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 22,
+    "proteinPer100g": 2.5,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 4.3,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 250,
+    "isJunkFood": false
+  },
+  {
+    "name": "Шпинат",
+    "usdaFdcId": 168438,
+    "usdaDescription": "Mustard spinach, (tendergreen), raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 22,
+    "proteinPer100g": 2.2,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 3.9,
+    "category": "VEGETABLE",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "vegetable",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "defaultServingG": 80,
+    "minServingG": 40,
+    "maxServingG": 150,
+    "isJunkFood": false
+  },
+  {
+    "name": "Абрикос",
+    "usdaFdcId": 171697,
+    "usdaDescription": "Apricots, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 48,
+    "proteinPer100g": 1.4,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 11.1,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Ананас",
+    "usdaFdcId": 2346398,
+    "usdaDescription": "Pineapple, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 60.1,
+    "proteinPer100g": 0.5,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 14.1,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Апельсин",
+    "usdaFdcId": 169097,
+    "usdaDescription": "Oranges, raw, all commercial varieties",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 47,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 11.8,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Арбуз",
+    "usdaFdcId": 2747675,
+    "usdaDescription": "Watermelon, seedless, flesh only, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 3.5,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0,
+    "carbsPer100g": 0,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Банан",
+    "usdaFdcId": 1105073,
+    "usdaDescription": "Bananas, overripe, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 85,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 20.1,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 120,
+    "minServingG": 80,
+    "maxServingG": 180,
+    "isJunkFood": false
+  },
+  {
+    "name": "Виноград",
+    "usdaFdcId": 174683,
+    "usdaDescription": "Grapes, red or green (European type, such as Thompson seedless), raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 69,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 18.1,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 140,
+    "minServingG": 80,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Вишня",
+    "usdaFdcId": 2346399,
+    "usdaDescription": "Cherries, sweet, dark red, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 70.7,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 16.2,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Голубика",
+    "usdaFdcId": 2346411,
+    "usdaDescription": "Blueberries, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 57.5,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 14.6,
+    "category": "FRUIT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 120,
+    "minServingG": 60,
+    "maxServingG": 180,
+    "isJunkFood": false
+  },
+  {
+    "name": "Гранат",
+    "usdaFdcId": 169134,
+    "usdaDescription": "Pomegranates, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 83,
+    "proteinPer100g": 1.7,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 18.7,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Грейпфрут",
+    "usdaFdcId": 173033,
+    "usdaDescription": "Grapefruit, raw, pink and red and white, all areas",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 32,
+    "proteinPer100g": 0.6,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 8.1,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Груша",
+    "usdaFdcId": 2710836,
+    "usdaDescription": "Pear, Anjou, green, with skin, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 57.4,
+    "proteinPer100g": 0.3,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 14.8,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 170,
+    "minServingG": 80,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Дыня",
+    "usdaFdcId": 746770,
+    "usdaDescription": "Melons, cantaloupe, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 34,
+    "proteinPer100g": 0.8,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 8.2,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Ежевика",
+    "usdaFdcId": 2727581,
+    "usdaDescription": "Blackberries, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 6.1,
+    "proteinPer100g": 1.5,
+    "fatPer100g": 0,
+    "carbsPer100g": 0,
+    "category": "FRUIT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Изюм",
+    "usdaFdcId": 168165,
+    "usdaDescription": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 299,
+    "proteinPer100g": 3.3,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 79.3,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "snack"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 15,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Инжир",
+    "usdaFdcId": 173021,
+    "usdaDescription": "Figs, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 74,
+    "proteinPer100g": 0.8,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 19.2,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Инжир сушеный",
+    "usdaFdcId": 746768,
+    "usdaDescription": "Figs, dried, uncooked",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 249,
+    "proteinPer100g": 3.3,
+    "fatPer100g": 0.9,
+    "carbsPer100g": 63.9,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 15,
+    "maxServingG": 80,
+    "isJunkFood": false
+  },
+  {
+    "name": "Киви",
+    "usdaFdcId": 327046,
+    "usdaDescription": "Kiwifruit, green, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 58,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 14,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 120,
+    "minServingG": 60,
+    "maxServingG": 180,
+    "isJunkFood": false
+  },
+  {
+    "name": "Клубника",
+    "usdaFdcId": 2346409,
+    "usdaDescription": "Strawberries, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 32.7,
+    "proteinPer100g": 0.6,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 8,
+    "category": "FRUIT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 150,
+    "minServingG": 80,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Клюква",
+    "usdaFdcId": 169804,
+    "usdaDescription": "Cranberries, wild, bush, raw (Alaska Native)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 55,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 12.3,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Курага",
+    "usdaFdcId": 173941,
+    "usdaDescription": "Apricots, dried, sulfured, uncooked",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 241,
+    "proteinPer100g": 3.4,
+    "fatPer100g": 0.5,
+    "carbsPer100g": 62.6,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 15,
+    "maxServingG": 80,
+    "isJunkFood": false
+  },
+  {
+    "name": "Лимон",
+    "usdaFdcId": 167746,
+    "usdaDescription": "Lemons, raw, without peel",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 29,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 9.3,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Малина",
+    "usdaFdcId": 2346410,
+    "usdaDescription": "Raspberries, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 57.3,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 12.9,
+    "category": "FRUIT",
+    "priceCategory": "HIGH",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Манго",
+    "usdaFdcId": 2710833,
+    "usdaDescription": "Mango, Tommy Atkins, peeled, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 68.6,
+    "proteinPer100g": 0.6,
+    "fatPer100g": 0.6,
+    "carbsPer100g": 15.3,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Мандарин",
+    "usdaFdcId": 169105,
+    "usdaDescription": "Tangerines, (mandarin oranges), raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 53,
+    "proteinPer100g": 0.8,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 13.3,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 140,
+    "minServingG": 80,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Нектарин",
+    "usdaFdcId": 327357,
+    "usdaDescription": "Nectarines, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 39,
+    "proteinPer100g": 1.1,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 9.2,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Персик",
+    "usdaFdcId": 325430,
+    "usdaDescription": "Peaches, yellow, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 42,
+    "proteinPer100g": 0.9,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 10.1,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Слива",
+    "usdaFdcId": 169949,
+    "usdaDescription": "Plums, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 46,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 11.4,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Смородина красная",
+    "usdaFdcId": 173964,
+    "usdaDescription": "Currants, red and white, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 56,
+    "proteinPer100g": 1.4,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 13.8,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Смородина черная",
+    "usdaFdcId": 173963,
+    "usdaDescription": "Currants, european black, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 63,
+    "proteinPer100g": 1.4,
+    "fatPer100g": 0.4,
+    "carbsPer100g": 15.4,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Финики",
+    "usdaFdcId": 168191,
+    "usdaDescription": "Dates, medjool",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 277,
+    "proteinPer100g": 1.8,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 75,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 15,
+    "maxServingG": 80,
+    "isJunkFood": false
+  },
+  {
+    "name": "Хурма",
+    "usdaFdcId": 169941,
+    "usdaDescription": "Persimmons, japanese, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 70,
+    "proteinPer100g": 0.6,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 18.6,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Черешня",
+    "usdaFdcId": 2346399,
+    "usdaDescription": "Cherries, sweet, dark red, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 70.7,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 16.2,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 320,
+    "isJunkFood": false
+  },
+  {
+    "name": "Чернослив",
+    "usdaFdcId": 167751,
+    "usdaDescription": "Plums, dried (prunes), stewed, without added sugar",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 107,
+    "proteinPer100g": 1,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 28.1,
+    "category": "FRUIT",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 15,
+    "maxServingG": 80,
+    "isJunkFood": false
+  },
+  {
+    "name": "Яблоко",
+    "usdaFdcId": 1750341,
+    "usdaDescription": "Apples, gala, with skin, raw",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 55,
+    "proteinPer100g": 0.1,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 14.8,
+    "category": "FRUIT",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "fruit",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 160,
+    "minServingG": 80,
+    "maxServingG": 220,
+    "isJunkFood": false
+  },
+  {
+    "name": "Батончик протеиновый",
+    "usdaFdcId": 173158,
+    "usdaDescription": "Formulated Bar, SOUTH BEACH protein bar",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 412,
+    "proteinPer100g": 30.3,
+    "fatPer100g": 15.2,
+    "carbsPer100g": 38.4,
+    "category": "SNACK",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Злаковый батончик",
+    "usdaFdcId": 168862,
+    "usdaDescription": "Snacks, KELLOGG, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 365,
+    "proteinPer100g": 4.2,
+    "fatPer100g": 8.7,
+    "carbsPer100g": 67.6,
+    "category": "SNACK",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Крекеры соленые",
+    "usdaFdcId": 167942,
+    "usdaDescription": "Crackers, saltines, whole wheat (includes multi-grain)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 398,
+    "proteinPer100g": 7.1,
+    "fatPer100g": 10.7,
+    "carbsPer100g": 68.2,
+    "category": "SNACK",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Попкорн соленый",
+    "usdaFdcId": 170246,
+    "usdaDescription": "Snacks, popcorn, air-popped (Unsalted)",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 382,
+    "proteinPer100g": 12,
+    "fatPer100g": 4.2,
+    "carbsPer100g": 77.9,
+    "category": "SNACK",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Рисовые хлебцы",
+    "usdaFdcId": 170250,
+    "usdaDescription": "Snacks, rice cakes, brown rice, plain, unsalted",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 387,
+    "proteinPer100g": 8.2,
+    "fatPer100g": 2.8,
+    "carbsPer100g": 81.5,
+    "category": "SNACK",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "carb",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 30,
+    "minServingG": 15,
+    "maxServingG": 60,
+    "isJunkFood": false
+  },
+  {
+    "name": "Сухарики",
+    "usdaFdcId": 172751,
+    "usdaDescription": "Croutons, plain",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 407,
+    "proteinPer100g": 11.9,
+    "fatPer100g": 6.6,
+    "carbsPer100g": 73.5,
+    "category": "SNACK",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "salty"
+    ],
+    "defaultServingG": 40,
+    "minServingG": 20,
+    "maxServingG": 70,
+    "isJunkFood": true
+  },
+  {
+    "name": "Чипсы картофельные",
+    "usdaFdcId": 169677,
+    "usdaDescription": "Snacks, potato chips, plain, salted",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 532,
+    "proteinPer100g": 6.4,
+    "fatPer100g": 34,
+    "carbsPer100g": 53.8,
+    "category": "SNACK",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_added_sugar"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "salty"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 25,
+    "maxServingG": 80,
+    "isJunkFood": true
+  },
+  {
+    "name": "Чипсы кукурузные",
+    "usdaFdcId": 167558,
+    "usdaDescription": "Snacks, tortilla chips, plain, white corn, salted",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 472,
+    "proteinPer100g": 7.1,
+    "fatPer100g": 20.7,
+    "carbsPer100g": 67.8,
+    "category": "SNACK",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "salty"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 25,
+    "maxServingG": 80,
+    "isJunkFood": true
+  },
+  {
+    "name": "Вафли сливочные",
+    "usdaFdcId": 171858,
+    "usdaDescription": "Cookies, gluten-free, chocolate wafer",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 541,
+    "proteinPer100g": 4.1,
+    "fatPer100g": 30.4,
+    "carbsPer100g": 62.8,
+    "category": "SWEET",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Зефир",
+    "usdaFdcId": 167995,
+    "usdaDescription": "Candies, marshmallows",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 318,
+    "proteinPer100g": 1.8,
+    "fatPer100g": 0.2,
+    "carbsPer100g": 81.3,
+    "category": "SWEET",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [
+      "contains_added_sugar"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "sweet"
+    ],
+    "defaultServingG": 40,
+    "minServingG": 20,
+    "maxServingG": 70,
+    "isJunkFood": true
+  },
+  {
+    "name": "Пастила",
+    "usdaFdcId": 167540,
+    "usdaDescription": "Snacks, fruit leather, pieces",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 359,
+    "proteinPer100g": 1,
+    "fatPer100g": 2.7,
+    "carbsPer100g": 82.8,
+    "category": "SWEET",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Печенье овсяное",
+    "usdaFdcId": 333008,
+    "usdaDescription": "Cookies, oatmeal, soft, with raisins",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 430,
+    "proteinPer100g": 5.8,
+    "fatPer100g": 14.3,
+    "carbsPer100g": 69.6,
+    "category": "SWEET",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Печенье шоколадное",
+    "usdaFdcId": 172716,
+    "usdaDescription": "Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 492,
+    "proteinPer100g": 5.1,
+    "fatPer100g": 24.7,
+    "carbsPer100g": 65.4,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_gluten",
+      "contains_added_sugar"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "sweet"
+    ],
+    "defaultServingG": 40,
+    "minServingG": 20,
+    "maxServingG": 70,
+    "isJunkFood": true
+  },
+  {
+    "name": "Попкорн сладкий",
+    "usdaFdcId": 167551,
+    "usdaDescription": "Snacks, popcorn, caramel-coated, with peanuts",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 400,
+    "proteinPer100g": 6.4,
+    "fatPer100g": 7.8,
+    "carbsPer100g": 80.7,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Пряники",
+    "usdaFdcId": 172701,
+    "usdaDescription": "Cake, gingerbread, dry mix",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 437,
+    "proteinPer100g": 4.4,
+    "fatPer100g": 13.8,
+    "carbsPer100g": 74.6,
+    "category": "SWEET",
+    "priceCategory": "CHEAP",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Сникерс",
+    "usdaFdcId": 169589,
+    "usdaDescription": "Candies, MARS SNACKFOOD US, SNICKERS Bar",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 491,
+    "proteinPer100g": 7.5,
+    "fatPer100g": 23.8,
+    "carbsPer100g": 61.5,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_nuts",
+      "contains_added_sugar"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "sweet"
+    ],
+    "defaultServingG": 50,
+    "minServingG": 40,
+    "maxServingG": 70,
+    "isJunkFood": true
+  },
+  {
+    "name": "Сушеное манго",
+    "usdaFdcId": 169091,
+    "usdaDescription": "Mango, dried, sweetened",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 319,
+    "proteinPer100g": 2.5,
+    "fatPer100g": 1.2,
+    "carbsPer100g": 78.6,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Шоколад молочный",
+    "usdaFdcId": 167587,
+    "usdaDescription": "Candies, milk chocolate",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 535,
+    "proteinPer100g": 7.7,
+    "fatPer100g": 29.7,
+    "carbsPer100g": 59.4,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_added_sugar",
+      "contains_lactose"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "sweet"
+    ],
+    "defaultServingG": 35,
+    "minServingG": 15,
+    "maxServingG": 60,
+    "isJunkFood": true
+  },
+  {
+    "name": "KitKat",
+    "usdaFdcId": 167992,
+    "usdaDescription": "Candies, KIT KAT Wafer Bar",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 518,
+    "proteinPer100g": 6.5,
+    "fatPer100g": 26,
+    "carbsPer100g": 64.6,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Twix",
+    "usdaFdcId": 168102,
+    "usdaDescription": "Candies, MARS SNACKFOOD US, TWIX chocolate fudge cookie bars",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 553,
+    "proteinPer100g": 7.3,
+    "fatPer100g": 33.3,
+    "carbsPer100g": 56,
+    "category": "SWEET",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "junk",
+      "snack"
+    ],
+    "defaultServingG": 45,
+    "minServingG": 20,
+    "maxServingG": 100,
+    "isJunkFood": true
+  },
+  {
+    "name": "Апельсиновый сок",
+    "usdaFdcId": 2003591,
+    "usdaDescription": "Orange juice, no pulp, not fortified, from concentrate, refrigerated",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 47.1,
+    "proteinPer100g": 0.7,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 10.3,
+    "category": "DRINK",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "drink",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 500,
+    "isJunkFood": false
+  },
+  {
+    "name": "Энергетик Monster",
+    "usdaFdcId": 171935,
+    "usdaDescription": "Beverages, Energy Drink, Monster, fortified with vitamins C, B2, B3, B6, B12",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 47,
+    "proteinPer100g": 0.5,
+    "fatPer100g": 0,
+    "carbsPer100g": 11.3,
+    "category": "DRINK",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_caffeine",
+      "contains_added_sugar"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "drink"
+    ],
+    "defaultServingG": 473,
+    "minServingG": 250,
+    "maxServingG": 500,
+    "isJunkFood": true
+  },
+  {
+    "name": "Энергетик Red Bull",
+    "usdaFdcId": 171870,
+    "usdaDescription": "Beverages, Energy drink, RED BULL, sugar free, with added caffeine, niacin, pantothenic acid, vitamins B6 and B12",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 5,
+    "proteinPer100g": 0.3,
+    "fatPer100g": 0.1,
+    "carbsPer100g": 0.7,
+    "category": "DRINK",
+    "priceCategory": "MID",
+    "restrictionTags": [
+      "contains_caffeine",
+      "contains_added_sugar"
+    ],
+    "usageTags": [
+      "junk",
+      "snack",
+      "drink"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 250,
+    "maxServingG": 500,
+    "isJunkFood": true
+  },
+  {
+    "name": "Яблочный сок",
+    "usdaFdcId": 2003590,
+    "usdaDescription": "Apple juice, with added vitamin C, from concentrate, shelf stable",
+    "priceSource": "USDA FoodData Central + Rosstat / regional retail benchmarks for Omsk, Novosibirsk, Krasnoyarsk, Krasnodar and Saint Petersburg, March 2026",
+    "caloriesPer100g": 48.5,
+    "proteinPer100g": 0.1,
+    "fatPer100g": 0.3,
+    "carbsPer100g": 11.4,
+    "category": "DRINK",
+    "priceCategory": "MID",
+    "restrictionTags": [],
+    "usageTags": [
+      "drink",
+      "breakfast",
+      "snack"
+    ],
+    "defaultServingG": 250,
+    "minServingG": 150,
+    "maxServingG": 500,
+    "isJunkFood": false
+  }
+]
