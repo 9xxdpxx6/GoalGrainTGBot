@@ -9,7 +9,7 @@ import { ProductRepository } from "../repositories/product.repository";
 import { UserRepository } from "../repositories/user.repository";
 import { DailyPlan, ProfileInput } from "../types/domain";
 import {
-  applyRestrictionInput,
+  applySingleFieldRestrictionInput,
   formatRestrictionList,
   parseRestrictions,
   readRestrictionList,
@@ -840,7 +840,7 @@ async function handleWizardInput(
       }
       case "restrictions": {
         const limitations = state.singleField
-          ? applyRestrictionInput(state.draft.limitations ?? [], rawText)
+          ? applySingleFieldRestrictionInput(state.draft.limitations ?? [], rawText)
           : parseRestrictions(rawText);
         state.draft.limitations = limitations;
 

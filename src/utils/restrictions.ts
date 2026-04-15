@@ -99,6 +99,10 @@ export function applyRestrictionInput(current: string[], input: string): string[
   return applyOperations(current, parseRestrictionOperations(input, true));
 }
 
+export function applySingleFieldRestrictionInput(current: string[], input: string): string[] {
+  return hasExplicitRestrictionOperators(input) ? applyRestrictionInput(current, input) : parseRestrictions(input);
+}
+
 export function formatRestriction(token: string): string {
   if (RESTRICTION_LABELS[token]) {
     return RESTRICTION_LABELS[token];
@@ -147,6 +151,15 @@ function parseRestrictionOperations(input: string, allowMixedModes: boolean): Re
       tokens: normalizeRestrictionToken(stripRestrictionModePrefix(part, mode)),
     };
   });
+}
+
+function hasExplicitRestrictionOperators(input: string): boolean {
+  return input
+    .split(/\r?\n|;/)
+    .flatMap((part) => part.split(","))
+    .map((part) => part.trim())
+    .filter(Boolean)
+    .some((part) => /^[+=-]/.test(part));
 }
 
 function applyOperations(current: string[], operations: RestrictionOperation[]): string[] {
